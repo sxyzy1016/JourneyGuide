@@ -1,3 +1,0 @@
-# JourneyGuide
-
-Our App.
